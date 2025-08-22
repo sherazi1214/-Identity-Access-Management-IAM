@@ -20,7 +20,7 @@ IAM ka kaam hai ke user ki identity confirm karna aur usko sahi access dena, aur
 
 ### IAM follows a user identity lifecycle, from join → move → leave.
 
-##1. Identity Provisioning (Onboarding)
+## 1. Identity Provisioning (Onboarding)
 
 **English:**
 
