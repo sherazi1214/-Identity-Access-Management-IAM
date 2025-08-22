@@ -16,7 +16,7 @@ IAM ka kaam hai ke user ki identity confirm karna aur usko sahi access dena, aur
 
 ## IAM Lifecycle
 
-**[Identity-Access-Management-IAM](https://www.business-analysis.com.au/wp-content/uploads/2020/03/Screen-Shot-2020-09-18-at-10.36.09-am.png)**
+![Identity-Access-Management-IAM](https://www.business-analysis.com.au/wp-content/uploads/2020/03/Screen-Shot-2020-09-18-at-10.36.09-am.png)
 
 ### IAM follows a user identity lifecycle, from join → move → leave.
 
